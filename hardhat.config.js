@@ -14,7 +14,7 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   }
 });
 
-
+//合约地址：0xABd43AEC16Cf02b749F6384f904819f143fB56c0
 module.exports = {
   solidity: "0.8.17",
   networks: {
